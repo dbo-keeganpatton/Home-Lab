@@ -1,0 +1,9 @@
+devices:
+  - raspberry-pi-3-model-b
+  - netgear-poe-managed-switch
+  - lenovo-thinkcentre-m710
+  - lenovo-ideapad-3
+  - lenovo-ideapad
+
+infrastructure:
+  - Deskpi rackmate t1
